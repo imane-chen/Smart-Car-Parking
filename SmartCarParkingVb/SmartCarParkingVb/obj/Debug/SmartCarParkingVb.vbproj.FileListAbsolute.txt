@@ -1,0 +1,11 @@
+C:\Users\Hp\source\repos\SmartCarParkingVb\SmartCarParkingVb\bin\Debug\SmartCarParkingVb.exe.config
+C:\Users\Hp\source\repos\SmartCarParkingVb\SmartCarParkingVb\bin\Debug\SmartCarParkingVb.exe
+C:\Users\Hp\source\repos\SmartCarParkingVb\SmartCarParkingVb\bin\Debug\SmartCarParkingVb.pdb
+C:\Users\Hp\source\repos\SmartCarParkingVb\SmartCarParkingVb\bin\Debug\SmartCarParkingVb.xml
+C:\Users\Hp\source\repos\SmartCarParkingVb\SmartCarParkingVb\obj\Debug\SmartCarParkingVb.vbprojAssemblyReference.cache
+C:\Users\Hp\source\repos\SmartCarParkingVb\SmartCarParkingVb\obj\Debug\SmartCarParkingVb.Form1.resources
+C:\Users\Hp\source\repos\SmartCarParkingVb\SmartCarParkingVb\obj\Debug\SmartCarParkingVb.Resources.resources
+C:\Users\Hp\source\repos\SmartCarParkingVb\SmartCarParkingVb\obj\Debug\SmartCarParkingVb.vbproj.GenerateResource.cache
+C:\Users\Hp\source\repos\SmartCarParkingVb\SmartCarParkingVb\obj\Debug\SmartCarParkingVb.exe
+C:\Users\Hp\source\repos\SmartCarParkingVb\SmartCarParkingVb\obj\Debug\SmartCarParkingVb.xml
+C:\Users\Hp\source\repos\SmartCarParkingVb\SmartCarParkingVb\obj\Debug\SmartCarParkingVb.pdb
